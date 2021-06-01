@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "img": "https://www.everfresh.se/globalassets/bilder-frukt/exotiskt/h2_mango.png",
+        "title": "Mango",
+        "price": "21.00/kg"
+    },
+    {
+        "id": 2,
+        "img": "https://sc04.alicdn.com/kf/UTB8ou8hOyDEXKJk43Oqq6Az3XXaz.jpg",
+        "title": "Apple",
+        "price": "21.39/kg"
+    },
+    {
+        "id": 3,
+        "img": "https://cdn.britannica.com/99/143599-050-C3289491/Watermelon.jpg",
+        "title": "Watermelon",
+        "price": "28.99/kg"
+    },
+    {
+        "id": 4,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDHz7dAsdQ-Y_Naz9jjb4wIHRYIGvTs3Jj9VF4RnPGh-bB0Qs8_SkVgO9tBDiHxcnnRTk&usqp=CAU",
+        "title": "Banana",
+        "price": "3/kg"
+    },
+    {
+        "id": 5,
+        "img": "https://www.citygross.se/images/products/4006409.jpg",
+        "title": "Pineapple",
+        "price": 18
+    },
+    {
+        "id": 6,
+        "img": "https://www.everfresh.se/globalassets/bilder-frukt/citrus/h2_lemon.png",
+        "title": "Lemon",
+        "price": "5/kg"
+    }
+
+]
+    
